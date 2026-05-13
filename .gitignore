@@ -1,0 +1,6 @@
+data/
+models/
+void/
+
+*.pkl
+.ipynb_checkpoints/
